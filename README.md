@@ -1,20 +1,19 @@
-# **Aymen**  
+# **Aymen Dellas**  
 **Frontend Developer | Applied Mathematics (Data Science) Student**  
 
-I specialize in building modern, responsive web applications with a focus on clean design, performance, and scalability. My approach to development emphasizes simplicity, maintainability, and functionality, leveraging cutting-edge tools and frameworks.  
+I’m a frontend developer passionate about crafting scalable and performant web applications using React.js and modern tools. My approach emphasizes simplicity, maintainability, and functionality.  
 
-## **Technical Skills**  
-- **Programming Languages:** JavaScript, HTML, CSS  
-- **Frontend Frameworks:** React.js  
+## **🚀 Technical Skills**  
+- **Languages:** JavaScript, TypeScript, HTML, CSS  
+- **Frontend:** React.js 
 - **Styling:** Tailwind CSS  
-- **Tools & Platforms:** Git, Firebase, Vite  
+- **Backend & Tools:** Firebase, Git  
 
-## **Current Focus**  
-- Building efficient, reusable components with React.js  
-- Exploring state management and backend integration in web applications  
-- Refining styling workflows using Tailwind CSS for scalable design  
+## **🔍 Current Focus**  
+- Developing full-stack projects with Firebase authentication and Firestore  
+- Refining component architecture and optimizing React.js performance  
+- Enhancing UI/UX workflows with Tailwind CSS  
 
-## **Contact**  
-If you’re interested in collaboration or have opportunities, feel free to reach out:  
-- **Email:** dellasaymen@gmail.com
-- **GitHub:** https://github.com/AymenDellas
+## **📫 Contact**  
+📧 **Email:** dellasaymen@gmail.com  
+🐙 **GitHub:** [AymenDellas](https://github.com/AymenDellas)  
